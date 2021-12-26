@@ -1,4 +1,8 @@
-### Hi there 👋
+<div style="display:flex; justify-content:center; align-items: start;flex-direction:column; align-content: center;"> 
+<h1> Hi there 👋! Here you'll find a lot of projects that I've been using along my journey</h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgabriellima&layout=compact&langs_count=999&theme=radical" alt="Langs" style="width:50%"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=jgabriellima&show_icons=true&title_color=94fcff&icon_color=79ff97&text_color=fe9fe6&bg_color=151515" style="width:50%"/>
+</div>
 
 <!--
 **jgabriellima/jgabriellima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
