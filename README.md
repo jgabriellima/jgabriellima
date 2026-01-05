@@ -1,29 +1,41 @@
-<div align="center">
-
 # João Gabriel Lima
-  
-  <h3> Hi there 👋! Here you'll find a lot of projects that I've been using along my journey</h1>
-  
-  [![email: fingervinicius@icloud.com](https://img.shields.io/static/v1?label=Email&message=%20&color=8B89CC&labelColor=8B89CC&logoColor=FFF&style=for-the-badge&logo=protonmail)](mailto:joaogabriellima.eng@gmail.com)
-  [![linkedin: viniciusfinger](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=0077B5&labelColor=0077B5&logoColor=FFF&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaogabriellima/)
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgabriellima&layout=compact&langs_count=999&theme=radical" alt="Langs" /><img src="https://github-readme-stats.vercel.app/api/?username=jgabriellima&show_icons=true&title_color=94fcff&icon_color=79ff97&text_color=fe9fe6&bg_color=151515"/>
-</div>
 
+I work on enterprise AI systems, with an emphasis on architecture, agentic systems, and governance. My focus is on designing AI solutions that can grow, adapt, and remain reliable over time.
 
+---
 
-<!--
-**jgabriellima/jgabriellima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I work on
 
-Here are some ideas to get you started:
+- **Agentic Systems Architecture**
+  Designing multi-agent systems with clear responsibilities, control flows, and failure boundaries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI Evaluation & Optimization**
+  Building evaluation layers that make agent behavior observable, comparable, and improvable.
+
+- **Enterprise AI Governance**
+  Translating governance frameworks (e.g. ISO 42001) into concrete architectural and operational decisions.
+
+- **Production Readiness**
+  Making AI systems deployable, auditable, and maintainable beyond the prototype stage.
+
+---
+
+## Selected Work & Experiments
+
+This repository contains:
+- architectural prototypes
+- reference implementations
+- experimental frameworks
+- design notes and technical essays
+
+Most projects are **intentionally incomplete**:
+they exist to explore design space, trade-offs, and constraints — not to be products.
+
+---
+
+## Notes
+
+I believe AI systems should be:
+- engineered, not improvised
+- governed, not just optimized
+- understood, not mystified
